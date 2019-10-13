@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RedditHomeProject</string>
+    <string name="character_id">"id = %s"</string>
+    <string name="retry">Retry</string>
+    <string name="empty_result">Empty result</string>
+    <string name="error">Error</string>
+</resources>
